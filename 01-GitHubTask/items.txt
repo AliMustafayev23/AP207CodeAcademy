@@ -1,0 +1,7 @@
+motherboar
+CPU
+keyboard
+monitor
+mouse
+printer
+scanner
